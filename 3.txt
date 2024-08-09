@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+=======
+this is third file
+>>>>>>> bc485c3774f9d84f525672bd6738ddafe3f10d15
 test

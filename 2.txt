@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Hello from Intellipaat
 test
+=======
+Hello 123
+123
+>>>>>>> bc485c3774f9d84f525672bd6738ddafe3f10d15
