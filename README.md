@@ -2,6 +2,7 @@
 
 # Pre-requisites
 
+
 1. A Jenkins server 
 1. A EC2 instance (Application server) and deploy node.js 
 
